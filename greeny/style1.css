@@ -1,0 +1,113 @@
+ * {
+     padding: 0px;
+     margin: 0px;
+ }
+ 
+ .headerfile {
+     width: 1515px;
+     height: 50px;
+     border: 2px solid lightgreen;
+     background-color: lightgreen;
+ }
+ 
+ .header {
+     padding-left: 50px;
+     margin-top: 10px;
+ }
+ 
+ .container {
+     width: 1500px;
+     height: 300px;
+     margin-top: 50px;
+     border: white2px solid;
+     padding-top: 40px;
+     display: flex;
+     justify-content: space-around;
+     text-align: center;
+ }
+ 
+ .image {
+     height: 250px;
+     width: 200px;
+     border: solid white;
+ }
+ 
+ .content {
+     margin-top: 100px;
+     height: 400px;
+     width: 1515px;
+     border: 2px lightgreen solid;
+     background-color: lightgreen;
+ }
+ 
+ img {
+     float: left;
+     position: relative;
+     top: -30px;
+ }
+ 
+ .client {
+     padding-left: 500px;
+     padding: 20px;
+ }
+ 
+ .letter {
+     text-align: center;
+ }
+ 
+ .let {
+     text-align: center;
+     margin-top: 20px;
+ }
+ 
+ .bar {
+     width: 50%;
+     height: 20px;
+     border: 2px solid black;
+     margin-left: 400px;
+     border-radius: 5px;
+     font-size: 15px;
+ }
+ 
+ .last {
+     height: 300px;
+     width: 1500px;
+     background-color: lightgreen;
+     margin-top: 20px;
+     padding-top: 50px;
+     padding-left: 20px;
+ }
+ 
+ .fix {
+     position: fixed;
+     bottom: 0px;
+     width: 100;
+     background-color: lightgreen;
+     padding: 10px;
+ }
+ 
+ .forms {
+     margin-left: 45%;
+     font-size: 20px;
+ }
+ 
+ .media {
+     margin-top: 50px;
+ }
+ 
+ .media img {
+     padding-left: 20px;
+ }
+ 
+ img:hover {
+     transform: scale(1.05);
+ }
+ 
+ p {
+     font-size: 25px;
+ }
+ 
+ .greet {
+     padding: 50px;
+     padding-left: 40%;
+ }

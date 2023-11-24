@@ -1,0 +1,171 @@
+ * {
+     padding: 0px;
+     margin: 0px;
+ }
+ /*Navigation Bar*/
+ 
+ nav {
+     background-color: lightgreen;
+     padding: 10px;
+     width: 1495px;
+ }
+ 
+ h1,
+ li,
+ ul {
+     display: inline;
+     padding: 20px;
+     cursor: pointer;
+ }
+ 
+ li {
+     font-size: 20px;
+ }
+ 
+ li:hover {
+     color: white;
+ }
+ 
+ ul {
+     margin-left: 60%;
+     cursor: pointer;
+ }
+ /*Shopping Pages And Videos-->.container*/
+ 
+ .container {
+     height: 250px;
+     width: 1515px;
+     background-color: lightgreen;
+ }
+ 
+ .container img {
+     padding-top: 20px;
+     padding-right: 40px;
+     float: right;
+ }
+ 
+ .shop,
+ .watch {
+     height: 50px;
+     width: 125px;
+     color: white;
+     background-color: lightblue;
+     margin-top: 20px;
+     margin-left: 100px;
+     text-align: center;
+     position: relative;
+     padding-top: 20px;
+ }
+ 
+ .watch {
+     left: 200px;
+     top: -90px;
+ }
+ 
+ .para,
+ .para2,
+ .head {
+     padding-left: 100px;
+     padding-top: 20px;
+ }
+ 
+ .para2 {
+     margin-top: -80px;
+ }
+ 
+ .sun {
+     text-align: center;
+     padding: 10px;
+ }
+ 
+ #suns {
+     margin-left: 45%;
+     padding: 10px;
+ }
+ 
+ .boxes {
+     width: 900px;
+     height: 250px;
+     border: 2px solid black;
+     margin-left: 250px;
+     margin-top: 50px;
+     justify-content: space-around;
+     display: flex;
+     padding-top: 40px;
+ }
+ 
+ .box1,
+ .box2,
+ .box3 {
+     height: 220px;
+     width: 200px;
+     border: 2px solid black;
+ }
+ 
+ .weed {
+     clear: right;
+ }
+ 
+ .boxes img {
+     padding-left: 80px;
+     padding-top: 20px;
+ }
+ 
+ .prod {
+     padding-left: 45%;
+     margin: 50px;
+ }
+ 
+ .section {
+     height: 600px;
+     width: 1515px;
+     background-color: lightgreen;
+     justify-content: space-around;
+     display: flex;
+     margin-top: 50px;
+ }
+ 
+ .box4,
+ .box5,
+ .box6 {
+     margin-top: 60px;
+     height: 350px;
+     width: 200px;
+     margin-left: 80px;
+ }
+ 
+ .box4,
+ .box6 {
+     margin-top: -30px;
+ }
+ 
+ img:hover {
+     transform: scale(1.05);
+ }
+ 
+ h4 {
+     text-align: center;
+ }
+ 
+ .last {
+     background-color: lightgreen;
+     padding-left: 250px;
+     margin-top: -50px;
+ }
+ 
+ .para,
+ .sun,
+ .para2,
+ .weed {
+     font-size: 20px;
+     text-align: center;
+ }
+ 
+ .anger {
+     font-size: 20px;
+ }
+ 
+ .last {
+     font-size: 20px;
+     height: 0px;
+ }
